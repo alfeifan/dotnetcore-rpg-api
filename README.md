@@ -13,7 +13,7 @@ The API makes use of automapper and data transfer objects
 ## GET: http://localhost:5000/character/getall
 This method returns all the characters present in the API
 
-## GET: http://localhost:5000/character/?{int id}
+## GET: http://localhost:5000/character/{int id}
 This method returns a character with a specified id e.g. 1
 
 ## POST: http://localhost:5000/character/
