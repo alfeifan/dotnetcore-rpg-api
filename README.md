@@ -1,4 +1,4 @@
-# .NET Core RPG REST API 
+# .NET Core RPG Character REST API 
 A simple .NET Core REST API that handles CRUD operations with an RPG theme
 
 Folder structure is as follows:
