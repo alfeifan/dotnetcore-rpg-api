@@ -33,3 +33,6 @@ This method allows a user to update an existing character using the same json fo
 
 ## DELETE: http://localhost:5000/character/?{int id}
 This method deletes an existing character within the API using a specified id 
+
+## How to run:
+Download or clone the repository and run within VS Studio or VS Code
