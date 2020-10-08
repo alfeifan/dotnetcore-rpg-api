@@ -36,3 +36,5 @@ This method deletes an existing character within the API using a specified id
 
 ## How to run:
 Download or clone the repository and run within VS Studio or VS Code
+
+![Image of API](IMG.png)
