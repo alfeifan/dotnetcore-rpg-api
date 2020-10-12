@@ -7,8 +7,9 @@ Folder structure is as follows:
 * Models
 * Services
 
-This API is initialised on localhost:5000 and can perform the following operations: 
 The API makes use of automapper and data transfer objects 
+
+This API is initialised on localhost:5000 and can perform the following operations: 
 
 ## GET: http://localhost:5000/character/getall
 This method returns all the characters present in the API
