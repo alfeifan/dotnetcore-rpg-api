@@ -29,10 +29,11 @@ This method allows a user to add a new character into the list with the followin
               "class": int
              }
              
-## PUT: http://localhost:5000/character/
-This method allows a user to update an existing character using the same json format as adding a new character
+## PUT: http://localhost:5000/character/{int id}
+This method allows a user to update data for an existing character using their id. 
+Uses the same json format as adding a new character.
 
-## DELETE: http://localhost:5000/character/?{int id}
+## DELETE: http://localhost:5000/character/{int id}
 This method deletes an existing character within the API using a specified id 
 
 ## How to run:
